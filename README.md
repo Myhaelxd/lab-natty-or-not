@@ -20,22 +20,23 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Título do Projeto: Vídeo explicando taxa SELIC (prévia0
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Elaboração de um vídeo utilizando IA
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+chatGPT - para criação de script e D-ID - Para criação do vídeo
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Digitar no prompt do chatGPT: "Crie um script para um vídeo descrevendo um pouco sobre a taxa selic"
+copiar o texto e inserir na aba "script" no D-ID
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Ao final, será gerado um vídeo, onde um avatar previamente selecionado, falará o script copiado, com uma voz previamente escolhida
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+A IA facilita a execução da atividade, sem ela demoraria muito mais tempo para execução.
 ```
 
 ### Exemplos e Insigths
